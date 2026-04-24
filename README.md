@@ -40,8 +40,6 @@ With extensive experience across the entire software development lifecycle, I ta
 
 ### ✦ Technical Arsenal
 
-<br/>
-
 #### 💻 Languages & Core Web
 > <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript" />
 
